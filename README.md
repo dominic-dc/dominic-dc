@@ -1,6 +1,6 @@
-### Hi there, I'm Dominic! 👋
+## Hi there, I'm Dominic! 👋
 
-🧐 A little background about me! 🧐
+### 🧐 A little background about me! 🧐
 
 - 🔭 I’m currently working on some small projects like some scripts or web apps 
 - 🌱 I’m currently learning different programming languages
