@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Dominic! 👋
 
-<!--
-**dominic-dc/dominic-dc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧐 A little background about me! 🧐
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on some small projects like some scripts or web apps 
+- 🌱 I’m currently learning different programming languages
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about anything and I will try to help you if I can
+- 📫 How to reach me: dominicadrian.delacruz17@gmail.com
+- ⚡ Fun fact: I love playing video games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=dominic-dc)](https://github.com/dominic-dc/github-readme-stats)
+
