@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I love playing video games
 
 [![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=dominic-dc&show_icons=true&theme=tokyonight)](https://github.com/dominic-dc/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominic-dc&layout=compact&theme=tokyonight)](https://github.com/dominic-dc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominic-dc&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/dominic-dc/github-readme-stats)
