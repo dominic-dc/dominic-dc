@@ -9,5 +9,5 @@
 - 📫 How to reach me: dominicadrian.delacruz17@gmail.com
 - ⚡ Fun fact: I love playing video games
 
-[![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=dominic-dc)](https://github.com/dominic-dc/github-readme-stats)
+[![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=dominic-dc&show_icons=true&theme=tokyonight)](https://github.com/dominic-dc/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominic-dc&layout=compact)](https://github.com/dominic-dc/github-readme-stats)
